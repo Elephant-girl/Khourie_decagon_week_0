@@ -1,8 +1,8 @@
 h1{
-    color: rgb(234, 16, 74);
+    color: rgb(239, 239, 239);
 }
 body{
-    background-color: rgb(218, 250, 202);
+    background-color: rgb(16, 16, 17);
 }
 .headings{
     background-color: rgb(251, 215, 125);
@@ -33,7 +33,7 @@ li{
 .card_2{
     font-size: 30px;
     font-weight: bolder;
-    color: brown;
+    color: rgb(255, 255, 255);
     text-align: center;
 }
 .section_3{
@@ -42,7 +42,7 @@ li{
 .card_4{
     font-size: 30px;
     font-weight: bolder;
-    color: brown;
+    color: rgb(255, 255, 255);
     text-align: center;
 }
 .section_4{
