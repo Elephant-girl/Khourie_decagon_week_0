@@ -39,5 +39,17 @@ li{
 .section_3{
     background-color: rgb(249, 208, 181);
 }
-
+.card_4{
+    font-size: 30px;
+    font-weight: bolder;
+    color: brown;
+    text-align: center;
+}
+.section_4{
+    background-color:rgb(125, 208, 230);
+    font-size: 25px;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(226, 49, 119);
+}
 
